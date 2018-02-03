@@ -1,7 +1,7 @@
 # MovieLens_1M_Statistical_Analysis
 
-In this project, we developed a minimum viable product (MVP) to help movie production studios attain a competitive edge in the media industry
-using MovieLens 1M dataset, consisting of 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users.
+This project was a part of my coursework DS 501 (Introduction to Data Science).
+In this project, we developed a minimum viable product (MVP) to help movie production studios attain a competitive edge in the media industry using MovieLens 1M dataset, consisting of 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users.
 
 # Contents: 
 
